@@ -8,3 +8,11 @@ ebin
 rel/example_project
 .concrete/DEV_MODE
 .rebar
+ebin
+rel/acaline
+.rebar
+_rel
+deps
+relx
+.erlang.mk.packages.v1
+*.pem
